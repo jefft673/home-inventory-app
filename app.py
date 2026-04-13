@@ -1,4 +1,4 @@
-%%writefile app.py
+
 import streamlit as st
 import gspread
 from google.auth import default
